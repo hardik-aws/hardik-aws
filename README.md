@@ -6,6 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-👨🏻 💻 Experience: 12 Years 
-💬 💬 Ask me about **AWS, Serverless, Terraform, Kubernetes **
+👨🏻 💻 Experience: 12 Years <br>
+💬 💬 Ask me about **AWS, Serverless, Terraform, Kubernetes ** <br>
 📫 📫 How to reach me **mailtohardiks@gmail.com**
