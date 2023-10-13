@@ -4,8 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-aws&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-aws" /> </p>
 
 ### How to reach me:
-[<img alt="Email" width="20" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png">](mailto:mailtohardiks@gmail.com)
-[<img alt="Skype" width="20" src="https://cdn.icon-icons.com/icons2/405/PNG/512/Skype_40679.png">](skype:hardik.aws?chat)
+<a href="mailto:mailtohardiks@gmail.com">
+  <img alt="Email" width="20" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png">
+</a>
+<a href="skype:hardik.aws?chat">
+  <img alt="Skype" width="20" src="https://cdn.icon-icons.com/icons2/405/PNG/512/Skype_40679.png">
+</a>
+
 
 ### You can find me on these platforms.
 [<img alt="Upwork" width="50" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/upwork_icon_130799.png">](https://www.upwork.com/freelancers/shahhardik)
