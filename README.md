@@ -4,16 +4,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-aws&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-aws" /> </p>
 
 ### How to reach me:
-<span style="display: inline-block; margin-right: 10px;">
+<div>
   <a href="mailto:mailtohardiks@gmail.com">
-    <img alt="Email" width="20" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png">
+    <img alt="Email" width="20" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-1024.png"> mailtohardiks@gmail.com
   </a>
-</span>
-<span style="display: inline-block;">
+</div>
+
+<div>
   <a href="skype:hardik.aws?chat">
-    <img alt="Skype" width="20" src="https://cdn.icon-icons.com/icons2/405/PNG/512/Skype_40679.png">
+    <img alt="Skype" width="20" src="https://cdn.icon-icons.com/icons2/405/PNG/512/Skype_40679.png"> hardik.aws
   </a>
-</span>
+</div>
+
 
 
 ### You can find me on these platforms.
