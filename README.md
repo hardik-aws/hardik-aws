@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Shah</h1>
-<h3 align="center">A Cloud Solution Architect / DevOps Engineer with 12 years of experience.</h3>
+
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=10000&pause=1000&vCenter=true&multiline=true&random=false&width=1000&lines=A+Cloud+Solution+Architect+%2F+DevOps+Engineer+with+12+years+of+experience." alt="Typing SVG" /></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardik-aws&label=Profile%20views&color=0e75b6&style=flat" alt="hardik-aws" /> </p>
 
