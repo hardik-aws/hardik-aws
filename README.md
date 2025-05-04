@@ -27,7 +27,7 @@
 [<img alt="LinkedIn" width="50" src="https://cdn.icon-icons.com/icons2/99/PNG/512/linkedin_socialnetwork_17441.png">](https://www.linkedin.com/in/hardik-aws/)
 
 ###
-👨🏻 💻 Experience: 13 Years <br>
+👨🏻 💻 Experience: 14 Years <br>
 
 🛠️ Technical Expertise: <br>
 
