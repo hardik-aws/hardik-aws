@@ -43,7 +43,7 @@
 🔅 python <br> 
 
 👾Configuration Management 👾  <br> 
-🔅 CloudFormation,  <br> 
+🔅 CloudFormation  <br> 
 🔅 Serverless Framework <br> 
 🔅 Terraform  <br> 
 🔅 AWS CDK <br> 
