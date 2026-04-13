@@ -7,6 +7,7 @@ Cloud Solutions Architect | AWS | DevOps | Kubernetes | Scalable & Secure Cloud 
 <p align="center">
   🌐 <a href="https://hardikshah.cloud">hardikshah.cloud</a> •
   📧 <a href="mailto:mailtohardiks@gmail.com">mailtohardiks@gmail.com</a>
+  🏅 <a href="https://www.credly.com/users/hardik-aws">Credly</a>
 </p>
 
 <p align="center">
